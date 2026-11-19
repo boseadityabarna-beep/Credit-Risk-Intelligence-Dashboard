@@ -118,19 +118,19 @@ The analysis provides a business-oriented perspective on selecting prediction th
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](executive_overview.png)
 
 ### 2. Model Performance
 
-![Model Performance](screenshots/model_performance.png)
+![Model Performance](model_performance.png)
 
 ### 3. Threshold and Cost Analysis
 
-![Threshold Analysis](screenshots/threshold_analysis.png)
+![Threshold Analysis](threshold_analysis.png)
 
 ### 4. Credit Risk Prediction
 
-![Credit Risk Prediction](screenshots/credit_prediction.png)
+![Credit Risk Prediction](credit_prediction.png)
 
 ## 🌐 Interactive Dashboard Features
 
