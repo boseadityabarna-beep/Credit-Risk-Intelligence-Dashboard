@@ -1,0 +1,7 @@
+{
+  "logistic_regression": 0.6000000000000002,
+  "decision_tree": 0.8700000000000002,
+  "random_forest": 0.23000000000000004,
+  "xgboost": 0.6900000000000002,
+  "calibrated_xgboost": 0.19
+}

@@ -1,0 +1,25 @@
+{
+  "target": "SeriousDlqin2yrs",
+  "features": [
+    "RevolvingUtilizationOfUnsecuredLines",
+    "age",
+    "NumberOfTime30-59DaysPastDueNotWorse",
+    "DebtRatio",
+    "MonthlyIncome",
+    "NumberOfOpenCreditLinesAndLoans",
+    "NumberOfTimes90DaysLate",
+    "NumberRealEstateLoansOrLines",
+    "NumberOfTime60-89DaysPastDueNotWorse",
+    "NumberOfDependents"
+  ],
+  "rows_after_invalid_age_removal": 149999,
+  "class_counts": {
+    "0": 139973,
+    "1": 10026
+  },
+  "train_rows": 104999,
+  "validation_rows": 22500,
+  "test_rows": 22500,
+  "false_positive_cost": 1,
+  "false_negative_cost": 5
+}
