@@ -2,7 +2,9 @@
 
 **An Interactive Machine Learning Platform for Credit Risk Assessment and Default Prediction**
 
-[🚀 View Live Dashboard](https://credit-risk-intelligence-dashboard-lf9hrneou9jhzrleybk5yf.streamlit.app/) | [💻 View Source Code](https://github.com/boseadityabarna-beep/Credit-Risk-Intelligence-Dashboard)
+[🚀 View Live Dashboard](## 🚀 Live Demo
+
+[Open the Interactive Credit Risk Dashboard](https://credit-risk-intelligence-dashboard-ruzv35highkgsbytkzzdff.streamlit.app/)) | [💻 View Source Code](https://github.com/boseadityabarna-beep/Credit-Risk-Intelligence-Dashboard)
 
 ---
 
