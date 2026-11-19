@@ -4,7 +4,7 @@
 
 [🚀 View Live Dashboard](## 🚀 Live Demo
 
-[Open the Interactive Credit Risk Dashboard](https://credit-risk-intelligence-dashboard-ruzv35highkgsbytkzzdff.streamlit.app/)) | [💻 View Source Code](https://github.com/boseadityabarna-beep/Credit-Risk-Intelligence-Dashboard)
+[Open the Interactive Credit Risk Dashboard](https://credit-risk-intelligence-dashboard-ruzv35highkgsbytkzzdff.streamlit.app/) | [💻 View Source Code](https://github.com/boseadityabarna-beep/Credit-Risk-Intelligence-Dashboard)
 
 ---
 
