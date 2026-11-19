@@ -1,3 +1,14 @@
+# 🏦 Credit Risk Intelligence Dashboard
+
+**An Interactive Machine Learning Platform for Credit Risk Assessment and Default Prediction**
+
+[🚀 View Live Dashboard](https://credit-risk-intelligence-dashboard-lf9hrneou9jhzrleybk5yf.streamlit.app/) | [💻 View Source Code](https://github.com/boseadityabarna-beep/Credit-Risk-Intelligence-Dashboard)
+
+---
+
+A machine learning-based credit risk analytics platform built using Python and Streamlit. The application compares multiple classification models, evaluates default prediction performance, and provides interactive customer-level risk assessment.
+
+**Technologies:** Python | Streamlit | Scikit-learn | XGBoost | Pandas | Plotly
 # Credit Risk Streamlit Dashboard
 
 ## Project structure
